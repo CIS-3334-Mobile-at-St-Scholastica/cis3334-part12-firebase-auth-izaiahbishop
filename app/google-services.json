@@ -1,46 +1,35 @@
 {
   "project_info": {
-    "project_number": "908938710376",
-    "firebase_url": "https://fir-authentication1-35e36.firebaseio.com",
-    "project_id": "fir-authentication1-35e36",
-    "storage_bucket": "fir-authentication1-35e36.appspot.com"
+    "project_number": "114732549665",
+    "firebase_url": "https://cis3334-part12-firebase-auth.firebaseio.com",
+    "project_id": "cis3334-part12-firebase-auth",
+    "storage_bucket": "cis3334-part12-firebase-auth.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:908938710376:android:8a263ec549856a8a",
+        "mobilesdk_app_id": "1:114732549665:android:8a263ec549856a8a",
         "android_client_info": {
           "package_name": "css.cis3334.firebaseauthentication"
         }
       },
       "oauth_client": [
         {
-          "client_id": "908938710376-qvqg4lipq3i0v43b993ab81ffvehep4l.apps.googleusercontent.com",
+          "client_id": "114732549665-smv8onnntgmsuqee11vcd4q5fmnuukd5.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "css.cis3334.firebaseauthentication",
-            "certificate_hash": "ee5a61a3ca0591fdb3b71dd2745389b0f48ee006"
+            "certificate_hash": "cf6cf13030097bde73b3914c9d47412ff06a1d9f"
           }
         },
         {
-          "client_id": "908938710376-316r143sn2vqfb3cp0fsqcbrlnjoubdg.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "css.cis3334.firebaseauthentication",
-            "certificate_hash": "29200dd6dc1e1e69796836b85e48f5ed71dcb379"
-          }
-        },
-        {
-          "client_id": "908938710376-2eolfhcu7glm49rcg3qrf1q8k6k84mhs.apps.googleusercontent.com",
+          "client_id": "114732549665-b3rs4iusqnj2jskjcmulscnsh0h7ldma.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDtvI7i_9qbYjB75KAR7DLn2KGGl-IJiZk"
-        },
-        {
-          "current_key": "AIzaSyA4uFmU5utLkSne6QxLQDWaSr5i_bnpf0s"
+          "current_key": "AIzaSyAR1ybJ2qs2KwawKG2CqAckLrmJrRWZwC0"
         }
       ],
       "services": {
@@ -51,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "908938710376-2eolfhcu7glm49rcg3qrf1q8k6k84mhs.apps.googleusercontent.com",
+              "client_id": "114732549665-b3rs4iusqnj2jskjcmulscnsh0h7ldma.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
